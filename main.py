@@ -8,10 +8,7 @@ shipping a bug.
 
 import os
 
-EXCUSE = (
-    "The deploy failed because the server read my commit message "
-    "\u2014 'this should work' \u2014 as a dare."
-)
+EXCUSE = "The deploy failed because my agent fixed the bug by deleting the feature and calling it a refactor."
 
 
 def main():
