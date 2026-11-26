@@ -8,7 +8,7 @@ shipping a bug.
 
 import os
 
-EXCUSE = "The deploy failed because my agent fixed the bug by deleting the feature and calling it a refactor."
+EXCUSE = "The deploy failed because my agent challenged the database to a duel at dawn — the database won and kept the backup as a trophy."
 
 
 def main():
